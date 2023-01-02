@@ -1,0 +1,5 @@
+Carrier ID: 7
+Date and Time: DT#2022-12-01-09:32:19
+Station ID: 9
+Processing Time: 4.212
+
